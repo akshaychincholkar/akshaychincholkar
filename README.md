@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]([https://rishavchanda.io](https://sites.google.com/view/akshaychincholkar/))
 <h1 align="center">Hi 👋, I'm Akshay Chincholkar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
