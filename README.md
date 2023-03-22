@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akshaychincholkar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x-eRc5rgp6lQzAaLrFwmZoakVOoO66Ar/view](https://drive.google.com/file/d/1x-eRc5rgp6lQzAaLrFwmZoakVOoO66Ar/view)
+- 📄 Know about my experiences [https://sites.google.com/view/akshaychincholkar/](https://sites.google.com/view/akshaychincholkar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
